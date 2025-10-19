@@ -1,4 +1,4 @@
-# 🎯 Global Derivatives Pricing Simulator
+# 🎯 quant desk multi model derivative engine
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
@@ -212,5 +212,6 @@ For questions about this project or collaboration opportunities, please reach ou
 ---
 
 *This project showcases advanced quantitative finance skills and modern software development practices suitable for roles in quantitative finance, fintech, and data science.*
+
 
 
